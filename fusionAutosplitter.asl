@@ -1,4 +1,4 @@
-/* Autosplitter script for Metroid Fusion (JP) on BizHawk 2.4.0 by video james
+/* Autosplitter script for Metroid Fusion (JP) on BizHawk by video james
  *
  * This autosplitter will start LiveSplit's timer the frame the menu arrow flashes and
  * will stop the timer the frame the player loses control of Samus at the end.
