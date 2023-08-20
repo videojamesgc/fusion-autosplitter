@@ -7,7 +7,7 @@
  */ 
 
 // These variables watch memory values to find the right frames to split on.
-state("EmuHawk" , "2.4.0") {
+state("emuhawk") {
 	uint start : "mgba.dll", 0x000DB020, 0x10, 0x18, 0x1E8, 0x30, 0xE28;
 	uint jingle : "mgba.dll", 0x000DB020, 0x10, 0x18, 0x1E8, 0x30, 0xE4C;
 	uint soundCheck : "mgba.dll", 0x000DB020, 0x10, 0x18, 0x1E8, 0x30, 0x7D94;
